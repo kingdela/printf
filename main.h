@@ -1,6 +1,3 @@
-ines (96 sloc)  3.44 KB
-
-#ifndef MAIN_H
 #define MAIN_H
 #include <stdarg.h>
 #include <stdio.h>
